@@ -1,0 +1,9 @@
+= gather ids
+
+= follow first link
+= check if download
+  = download if download
+  = log
+
+
+= follow second link...
